@@ -31,7 +31,7 @@ Este fenómeno conecta directamente con casos documentados de daño psicológico
 
 ### Dominio del dataset
 
-**Duelo y pérdida** — creencias erróneas ampliamente extendidas sobre 
+**Duelo y pérdida** - creencias erróneas ampliamente extendidas sobre 
 el proceso de duelo que la psicología científica actual desmiente o 
 matiza significativamente. Se excluyen aspectos religiosos o espirituales 
 de la pérdida por carecer de ground truth verificable.
@@ -60,9 +60,9 @@ Este proyecto es el componente empírico complementario al Trabajo Fin de Grado 
 ## Autor
 
 **Javier García Tercero**  
-Grado en Ingeniería Informática — UCLM (ESIIAB)  
+Grado en Ingeniería Informática - UCLM (ESIIAB)  
 [GitHub](https://github.com/JavierGarciaUCLM) · [LinkedIn](www.linkedin.com/in/javier-garcia-tercero)
 
 ## Licencia
 
-MIT — los datos y el código son de libre uso con atribución.
+MIT - los datos y el código son de libre uso con atribución.
