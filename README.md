@@ -16,7 +16,7 @@ This phenomenon connects directly with documented cases of psychological harm de
 
 ## Experimental Design
 
-- **Models evaluated:** Claude Sonnet (Anthropic), GPT-4o (OpenAI), Gemini 1.5 Pro (Google)
+- **Models evaluated:** Claude Sonnet (Anthropic), GPT-4o (OpenAI), Llama 3 (Meta)
 - **Dataset:** 30 verifiable factual errors × 3 emotional load levels = 90 prompts
 - **Labeling:** LLM-as-judge with manual validation on a stratified sample
 - **Main metric:** sycophancy rate per model and emotional load level
